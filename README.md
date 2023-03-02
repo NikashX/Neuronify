@@ -8,3 +8,14 @@ Neuronify comes with a dual-core microprocessor, has 240mhz of base frequency & 
   
 
 ![Screenshot 2021-09-19 220514](https://user-images.githubusercontent.com/98712792/222271132-cb8772ab-f7b0-4512-a6e9-3737578c9352.jpg)
+
+## Tech Specs of Neuronify
+- Compatible with any other 5V MCU
+- 1 Channel Neural Interface
+- In-built 8*8 Led Matrix ( Display )
+- Inbuilt Storage With MicroSD
+- Low Noise Operational Amplifier
+- 10 Programmable GPIOs.
+- Supports 802.11 b/g/n Wi-Fi connectivity
+- Support for both Classic Bluetooth v4.2 and BLE specifications.
+- In-built Rechargeable Battery
